@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		352AD25D2403FA5700FE672A /* SunnyWeatherWeather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SunnyWeatherWeather.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		352AD25D2403FA5700FE672A /* SunnyWeather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SunnyWeather.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		352AD2602403FA5700FE672A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		352AD2622403FA5700FE672A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		352AD2642403FA5700FE672A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,7 +56,7 @@
 		352AD25E2403FA5700FE672A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				352AD25D2403FA5700FE672A /* SunnyWeatherWeather.app */,
+				352AD25D2403FA5700FE672A /* SunnyWeather.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -152,7 +152,7 @@
 			);
 			name = SunnyWeather;
 			productName = Sunny;
-			productReference = 352AD25D2403FA5700FE672A /* SunnyWeatherWeather.app */;
+			productReference = 352AD25D2403FA5700FE672A /* SunnyWeather.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -363,8 +363,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "";
-				PRODUCT_NAME = SunnyWeatherWeather;
+				PRODUCT_BUNDLE_IDENTIFIER = SunnyWeather;
+				PRODUCT_NAME = SunnyWeather;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -381,8 +381,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "";
-				PRODUCT_NAME = SunnyWeatherWeather;
+				PRODUCT_BUNDLE_IDENTIFIER = SunnyWeather;
+				PRODUCT_NAME = SunnyWeather;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
